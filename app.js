@@ -29,7 +29,3 @@ io.on('connection', (socket) => {
     });
 
 });
-
-
-Maharsh
-Angad
